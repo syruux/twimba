@@ -64,6 +64,13 @@ textarea{
     line-height: 30px;
 }
 
+.reply-input{
+    font-size: 14px;
+    line-height: 20px;
+    height: 40px;
+    margin: 0 0 12px 0;
+}
+
 button{
     background-color: #1DA1F2;
     border: none;
@@ -74,6 +81,14 @@ button{
     cursor: pointer;
     font-size: 20px;
     font-weight: 600;
+}
+
+#reply-btn{
+    padding: 8px 17px;
+    width: 50%;
+    font-size: 16px;
+    margin: auto;
+    display: block;
 }
 
 /* tweet */
